@@ -99,7 +99,7 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     width: 90%;
-    max-width: 400px;
+    min-width: 400px;
     min-height: 166px;
     display: flex;
     justify-content: center;
@@ -113,7 +113,7 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     width: 90%;
-    max-width: 400px;
+    min-width: 400px;
     min-height: 166px;
     display: flex;
     justify-content: center;
@@ -127,7 +127,7 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     width: 90%;
-    max-width: 400px;
+    min-width: 400px;
     min-height: 166px;
     display: flex;
     justify-content: center;
@@ -142,4 +142,11 @@ h2 {
    background-attachment: fixed;
    background-size: all;
    height: 200px;
+ }
+
+ iframe{
+   align-items: center;
+   width: 361px;
+   height: 278px;
+   flex-shrink: 0;
  }
