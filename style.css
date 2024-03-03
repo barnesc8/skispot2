@@ -7,6 +7,15 @@ h1 {
     font-weight: 400;
     line-height: normal;
  }
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "Merriweather Sans", sans-serif;
+    text-align: center;
+    color: black;
+}
  
  p {
     color: black;
@@ -43,7 +52,11 @@ h1 {
     line-height: normal;
  }
  
- /* home page */
+  img {
+   width: 375px;
+   height: 187px;
+   flex-shrink: 0;
+   }
  
  .about {
     background: url('about me.jpg');
@@ -72,9 +85,3 @@ h1 {
     background-size: cover;
     background-position: center;
  }
-
- img {
-   width: 375px;
-   height: 187px;
-   flex-shrink: 0;
-}
