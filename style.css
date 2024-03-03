@@ -41,7 +41,6 @@ h1 {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
- 
     padding: 40px 0;
     max-width: 340px;
     max-height: 180px;;
@@ -104,7 +103,6 @@ h2 {
     background: url('22062 2.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
     width: 90%;
     max-width: 400px;
     min-height: 166px;
@@ -113,13 +111,13 @@ h2 {
     align-items: center;
     margin: 20px;
     opacity: 30%;
+    background-position: center;
  }
  
  .sl {
     background: url('xlarge\ 1.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
     width: 90%;
     max-width: 400px;
     min-height: 166px;
@@ -127,13 +125,13 @@ h2 {
     justify-content: center;
     align-items: center;
     margin: 20px;
+    background-position: center;
  }
  
  .loc {
     background: url('Screenshot\ 2024-02-15\ at\ 7.53\ 1.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
     width: 90%;
     max-width: 400px;
     min-height: 166px;
@@ -141,5 +139,6 @@ h2 {
     justify-content: center;
     align-items: center;
     margin: 20px;
+    background-position: center;
  }
 
