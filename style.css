@@ -101,7 +101,7 @@ h2 {
  }
  
  .ter {
-    background: url('22062\ 1.png');
+    background: url('22062 2.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -112,6 +112,7 @@ h2 {
     justify-content: center;
     align-items: center;
     margin: 20px;
+    opacity: 30%;
  }
  
  .sl {
