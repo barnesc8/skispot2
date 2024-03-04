@@ -107,7 +107,6 @@ h2 {
     align-items: center;
     margin: 20px;
     background-position: center;
-    display: flex;
  }
  
  .sl {
@@ -123,7 +122,6 @@ h2 {
     align-items: center;
     margin: 20px;
     background-position: center;
-    display: flex;
  }
  
  .loc {
@@ -139,7 +137,6 @@ h2 {
     align-items: center;
     margin: 20px;
     background-position: center;
-    display: flex;
  }
 
  head{
@@ -150,7 +147,6 @@ h2 {
    height: 200px;
  }
 
- div, 
  iframe{
    align-items: center;
    width: 361px;
@@ -158,8 +154,3 @@ h2 {
    flex-shrink: 0;
    align-content: center;
  }
-
- iframe {
-   display: block;
-   border-style:none;
-}
