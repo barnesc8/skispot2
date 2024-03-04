@@ -1,6 +1,6 @@
 h1,
 h2 {
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family: 'Gill Sans', sans-serif;
    text-align: center;
    color: black;
  }
@@ -18,7 +18,7 @@ h1 {
  p {
     color: black;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -29,7 +29,7 @@ h1 {
     color: white;
     text-align: center;
     text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 400;
@@ -42,7 +42,7 @@ h1 {
  p {
     color: black;
     text-align: center;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -69,7 +69,7 @@ nav {
 
 h2 {
    color: #000;
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family: 'Gill Sans', sans-serif;
    font-size: 40px;
    font-style: normal;
    font-weight: 800;
@@ -150,8 +150,8 @@ h2 {
  }
 
  header{
-   background-color: black;
-   background-size: all;
+   background-image: url(belleayre_final1_web.jpg);
+   background-size: cover;
    height: 100px;
    display: block;
  }
@@ -168,12 +168,12 @@ h2 {
  h3 {
    align-items: center;
    text-align: center;
-   font-family: Actor;
+   font-family: 'Gill Sans', sans-serif;
    font-size: 20px;
  }
 
  body {
-   background-color: #000;
+   background-color: white;
    align-content: center;
  }
 
