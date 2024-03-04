@@ -107,6 +107,7 @@ h2 {
     align-items: center;
     margin: 20px;
     background-position: center;
+    display: flex;
  }
  
  .sl {
@@ -122,6 +123,7 @@ h2 {
     align-items: center;
     margin: 20px;
     background-position: center;
+    display: flex;
  }
  
  .loc {
@@ -137,6 +139,7 @@ h2 {
     align-items: center;
     margin: 20px;
     background-position: center;
+    display: flex;
  }
 
  head{
