@@ -101,8 +101,8 @@ h2 {
     background-size: cover;
     background-position: center;
     width: 90%;
-    min-width: 400px;
-    min-height: 166px;
+    min-width: 500px;
+    min-height: 250px;
     display: inline-block;
     justify-content: center;
     align-items: center;
@@ -116,8 +116,8 @@ h2 {
     background-size: cover;
     background-position: center;
     width: 90%;
-    min-width: 400px;
-    min-height: 166px;
+    min-width: 500px;
+    min-height: 256px;
     display: inline-block;
     justify-content: center;
     align-items: center;
@@ -131,8 +131,8 @@ h2 {
     background-size: cover;
     background-position: center;
     width: 90%;
-    min-width: 400px;
-    min-height: 166px;
+    min-width: 500px;
+    min-height: 250px;
     display: inline-block;
     justify-content: center;
     align-items: center;
@@ -142,10 +142,9 @@ h2 {
 
  head{
    background-image: url('Belleayre-Trail-Map-Showing-Top.jpg');
-   background-repeat: no-repeat;
-   background-attachment: fixed;
    background-size: all;
    height: 200px;
+   display: block;
  }
 
  iframe{
