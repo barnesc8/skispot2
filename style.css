@@ -158,3 +158,10 @@ h2 {
    align-content: center;
    display: inline-block;
  }
+
+ h3 {
+   align-items: center;
+   text-align: center;
+   font-family: Actor;
+   font-size: 20px;
+ }
