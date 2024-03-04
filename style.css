@@ -98,6 +98,7 @@ h2 {
     background: url('22062\ 2.png');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     width: 90%;
     min-width: 400px;
     min-height: 166px;
@@ -112,6 +113,7 @@ h2 {
     background: url('xlarge\ 1.png');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     width: 90%;
     min-width: 400px;
     min-height: 166px;
@@ -126,6 +128,7 @@ h2 {
     background: url('Screenshot\ 2024-02-15\ at\ 7.53\ 1.png');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     width: 90%;
     min-width: 400px;
     min-height: 166px;
