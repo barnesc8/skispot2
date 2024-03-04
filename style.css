@@ -156,6 +156,7 @@ h2 {
    align-content: center;
  }
 
- .background {
-   
- }
+ iframe {
+   display: block;
+   border-style:none;
+}
