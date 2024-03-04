@@ -147,11 +147,13 @@ h2 {
    height: 200px;
  }
 
+ div, 
  iframe{
    align-items: center;
    width: 361px;
    height: 278px;
    flex-shrink: 0;
+   align-content: center;
  }
 
  .background {
