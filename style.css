@@ -1,6 +1,6 @@
 h1,
 h2 {
-   font-family: "Merriweather Sans", sans-serif;
+   font-family: Actor, sans-serif;
    text-align: center;
    color: black;
  }
@@ -146,13 +146,13 @@ h2 {
  head{
    background-color: black;
    background-size: all;
-   height: 600px;
+   height: 100px;
    display: block;
  }
 
  iframe{
    align-items: center;
-   width: 361px;
+   width: 1001px;
    height: 278px;
    flex-shrink: 0;
    align-content: center;
