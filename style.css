@@ -109,8 +109,6 @@ h2 {
     margin: 40px;
     background-position: center;
     text-align: center;
-    text-justify: center;
-    text-wrap: center;
  }
  
  .sl {
@@ -127,8 +125,6 @@ h2 {
     margin: 40px;
     background-position: center;
     text-align: center;
-    text-justify: center;
-    text-wrap: center;
  }
  
  .loc {
@@ -145,15 +141,13 @@ h2 {
     margin: 40px;
     background-position: center;
     text-align: center;
-    text-justify: center;
-    text-wrap: center;
  }
 
  header{
    background-image: url(belleayre_final1_web.jpg);
    background-size: cover;
    min-height: 300px;
-   display: block;
+   display: flex;
  }
 
  iframe{
@@ -163,6 +157,7 @@ h2 {
    flex-shrink: 0;
    align-content: center;
    display: inline-block;
+   padding-left: 150px;
  }
 
  h3 {
@@ -177,12 +172,8 @@ h2 {
    align-content: center;
  }
 
- title {
+ .skispot {
    color: white;
    font-family: 'Gill Sans', sans-serif;
-   font-size: 60px;
- }
-
- a {
-   display: flexbox;
+   font-size: 80px;
  }
