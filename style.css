@@ -109,6 +109,8 @@ h2 {
     margin: 40px;
     background-position: center;
     text-align: center;
+    margin-left: 230px;
+    margin-right: 230px;
  }
  
  .sl {
@@ -125,6 +127,8 @@ h2 {
     margin: 40px;
     background-position: center;
     text-align: center;
+    margin-left: 230px;
+    margin-right: 230px;
  }
  
  .loc {
@@ -141,6 +145,8 @@ h2 {
     margin: 40px;
     background-position: center;
     text-align: center;
+    margin-left: 230px;
+    margin-right: 230px;
  }
 
  header{
@@ -152,12 +158,13 @@ h2 {
 
  iframe{
    align-items: center;
-   width: 401px;
+   width: 701px;
    height: 378px;
    flex-shrink: 0;
    align-content: center;
    display: flex;
-   padding-left: 400px;
+   padding-left: 120px;
+   padding-right: 120px;
  }
 
  h3 {
@@ -173,18 +180,27 @@ h2 {
  }
 
  .skispot {
-   color: white;
+   color: rgb(0, 0, 0);
    font-family: 'Gill Sans', sans-serif;
    font-size: 80px;
-   align-items: center;
-   padding-top: 20px;
+   padding-left: 330px;
+   padding-top: 50px;
  }
 
  h2 {
    text-align: center;
+   color: black;
  }
 
  h1 {
    text-align: center;
+   font-family: 'Gill Sans', sans-serif;
+   display: flex;
+   justify-content: center;
+ }
+
+ a {
+   padding-left: 187px;
+   color: black;
    font-family: 'Gill Sans', sans-serif;
  }
