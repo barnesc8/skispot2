@@ -48,6 +48,7 @@ h1 {
     font-weight: 400;
     line-height: normal;
  }
+
  .bg-img {
    width: 90%;
    max-width: 400px;
@@ -102,7 +103,7 @@ h2 {
     width: 90%;
     min-width: 400px;
     min-height: 166px;
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     margin: 20px;
@@ -117,7 +118,7 @@ h2 {
     width: 90%;
     min-width: 400px;
     min-height: 166px;
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     margin: 20px;
@@ -132,7 +133,7 @@ h2 {
     width: 90%;
     min-width: 400px;
     min-height: 166px;
-    display: flex;
+    display: inline-block;
     justify-content: center;
     align-items: center;
     margin: 20px;
