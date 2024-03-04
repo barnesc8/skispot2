@@ -110,6 +110,7 @@ h2 {
     background-position: center;
     text-align: center;
     text-justify: center;
+    text-wrap: center;
  }
  
  .sl {
@@ -127,6 +128,7 @@ h2 {
     background-position: center;
     text-align: center;
     text-justify: center;
+    text-wrap: center;
  }
  
  .loc {
@@ -144,6 +146,7 @@ h2 {
     background-position: center;
     text-align: center;
     text-justify: center;
+    text-wrap: center;
  }
 
  head{
