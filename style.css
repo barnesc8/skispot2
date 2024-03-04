@@ -152,7 +152,7 @@ h2 {
  header{
    background-image: url(belleayre_final1_web.jpg);
    background-size: cover;
-   height: 100px;
+   min-height: 300px;
    display: block;
  }
 
@@ -179,4 +179,8 @@ h2 {
 
  title {
    color: white;
+ }
+
+ a {
+   display: flexbox;
  }
